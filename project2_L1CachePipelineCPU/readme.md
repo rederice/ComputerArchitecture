@@ -15,6 +15,9 @@ dcache_data_sram.v
 iverilog -o project2.o *.v
 ```
 3. Output: output.txt & cache.txt & test.vcd
+
 Register information will be dumped to file "output.txt"
+
 Cache information will be dumped to file "cache.txt"
+
 Wire information will be dumped to file "test.vcd" (GTKWave)
