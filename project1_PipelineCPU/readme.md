@@ -19,5 +19,7 @@ Pipeline 4 Latches
 iverilog -o project1.o *.v
 ```
 3. Output: output.txt & pipeline.vcd
+
 Register information will be dumped to file "output.txt"
+
 Wire information will be dumped to file "pipeline.vcd" (GTKWave)
