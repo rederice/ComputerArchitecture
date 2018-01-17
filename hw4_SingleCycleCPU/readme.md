@@ -22,5 +22,7 @@ ALU_Control.v
 iverilog -o hw4.o *.v
 ```
 3. Output: output.txt & test.vcd
+
 Register information will be dumped to file "output.txt"
+
 Wire information will be dumped to file "test.vcd" (GTKWave)
